@@ -1,0 +1,16 @@
+{
+  "itemGroup.mushroomrealm.main": "Mushroom Realm",
+  "item.mushroomrealm.mushroom_sword": "Mushroom Sword",
+  "item.mushroomrealm.mushroom_shard": "Mushroom Shard",
+  "item.mushroomrealm.fungal_core": "Fungal Core",
+  "item.mushroomrealm.spore_heart": "Spore Heart",
+  "item.mushroomrealm.mushroom_beetle_spawn_egg": "Mushroom Beetle Spawn Egg",
+  "item.mushroomrealm.mushroom_boss_spawn_egg": "Mushroom Colossus Spawn Egg",
+  "entity.mushroomrealm.mushroom_beetle": "Mushroom Beetle",
+  "entity.mushroomrealm.mushroom_boss": "Mushroom Colossus",
+  "item.mushroomrealm.mushroom_sword.tooltip.hit": "Hits poison the target (30% chance to weaken)",
+  "item.mushroomrealm.mushroom_sword.tooltip.use": "Right click: Spore Burst (8 s cooldown)",
+  "item.mushroomrealm.spore_heart.tooltip": "Use on a giant mushroom block to awaken the Colossus",
+  "message.mushroomrealm.boss_already_awake": "The Colossus is already awake nearby!",
+  "message.mushroomrealm.no_space": "Not enough space to summon the Colossus here"
+}

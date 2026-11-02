@@ -1,0 +1,16 @@
+{
+  "itemGroup.mushroomrealm.main": "Грибное королевство",
+  "item.mushroomrealm.mushroom_sword": "Грибной меч",
+  "item.mushroomrealm.mushroom_shard": "Грибной осколок",
+  "item.mushroomrealm.fungal_core": "Грибное ядро",
+  "item.mushroomrealm.spore_heart": "Споровое сердце",
+  "item.mushroomrealm.mushroom_beetle_spawn_egg": "Яйцо призыва грибного жука",
+  "item.mushroomrealm.mushroom_boss_spawn_egg": "Яйцо призыва грибного колосса",
+  "entity.mushroomrealm.mushroom_beetle": "Грибной жук",
+  "entity.mushroomrealm.mushroom_boss": "Грибной колосс",
+  "item.mushroomrealm.mushroom_sword.tooltip.hit": "Удары отравляют цель (30% шанс ослабить)",
+  "item.mushroomrealm.mushroom_sword.tooltip.use": "ПКМ: Взрыв спор (перезарядка 8 с)",
+  "item.mushroomrealm.spore_heart.tooltip": "Используйте на блоке гигантского гриба, чтобы пробудить колосса",
+  "message.mushroomrealm.boss_already_awake": "Колосс уже пробуждён поблизости!",
+  "message.mushroomrealm.no_space": "Недостаточно места для призыва колосса"
+}
